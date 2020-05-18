@@ -54,3 +54,14 @@ button {
     padding: 8px;
     font-weight: bold;
 }
+
+#about-description a {
+    text-decoration: none;  
+    color: #333333;
+    padding: 3px;
+}
+
+#about-description a:hover {    
+    background: gray;
+    color: #fff;
+}
