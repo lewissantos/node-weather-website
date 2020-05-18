@@ -14,7 +14,7 @@ const forecast = (latitude, longitude, callback) => {
             //     temperature: response.body.current.temperature,
             //     feelslike: response.body.current.feelslike
             // });
-        }
+        }        
     });
 };
 
