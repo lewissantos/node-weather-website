@@ -3,7 +3,7 @@
 
 This app was created by Leandro Santos. It uses data from [mapbox](https://www.mapbox.com/) and [weatherstack](https://weatherstack.com/).
 
-This is one the applications created as result of the [NodeJS Udemy Course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/).
+This is one of the applications created as result of the [NodeJS Udemy Course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/).
 
 Dependencies:
 - express
